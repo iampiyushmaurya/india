@@ -1,0 +1,19 @@
+.Main {
+  background: black;
+  color: white;
+  text-align: center;
+}
+.PopupContent {
+  background-color: black;
+  color: white;
+}
+.pointer {
+  margin-top: 5px;
+  border: 2px solid white;
+  display: inline-block;
+  cursor: pointer;
+  padding: 5px;
+  color: black;
+  background-color: white;
+  border-radius: 10px;
+}
